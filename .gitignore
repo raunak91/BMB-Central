@@ -6,6 +6,7 @@
 *.ipr
 *.ids
 *jar
+*.gradle
 lib
 classes
 target
